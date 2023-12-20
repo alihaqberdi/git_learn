@@ -1,2 +1,3 @@
 print(1234)
 """ bu 1234 natijani consolga chiqaradi """
+print("kodni davomini yozaman")
