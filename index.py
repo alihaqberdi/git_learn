@@ -1,0 +1,6 @@
+tosh = int(input('Toshlar sonini kiriting: '))
+
+if tosh % 2 == 0:
+    print('Second player')
+else:
+    print('First player')

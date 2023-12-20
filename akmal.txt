@@ -2,3 +2,9 @@ print(1234)
 """ bu 1234 natijani consolga chiqaradi """
 print("Men hato uchun qildim") """Hato"""
 print(123456789)
+
+print('Change')
+
+
+
+
